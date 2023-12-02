@@ -1,10 +1,18 @@
 {
   "files": {
+    ".upm/store.json": [
+      {
+        "id": "4413583b-0cb2-470b-a656-15e0ae171a44",
+        "line": 2,
+        "version": 1,
+        "index": 230
+      }
+    ],
     "templates/home.html": [
       {
         "id": "f4e9a9b3-2cc0-4928-9005-b36add5b8b0c",
         "line": 5,
-        "version": 964,
+        "version": 1346,
         "index": 66
       }
     ]
